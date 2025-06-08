@@ -1,0 +1,20 @@
+h1{
+   color: black;
+}
+label{
+    font-size: 150%;
+    color: black;
+}
+input{
+    color: black;
+}
+td,th{
+    background-color: bisque;
+    font-size: 150%;
+}
+body{
+    background-color: cadetblue;
+}
+input{
+    font-size: medium;
+}
